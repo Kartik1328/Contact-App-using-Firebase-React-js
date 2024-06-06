@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: #323334;
+}
+
+
+.userIcon{
+    color:#ffa500;
+}
+
+.deleteIcon{
+    color:orange;
+}
+
+.editIcon{
+    color:rgb(60, 60, 60);
+}
